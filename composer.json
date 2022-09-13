@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mailjet/mailjet-apiv3-php": "^1.5",
+        "vlucas/phpdotenv": "^5.4",
+        "curl/curl": "^2.3"
+    },
+    "autoload": {
+        "psr-4": {"Mail\\": "app/"}
+    },
+    "config": {
+    	"optimize-autoloader": true
+    }
+}
