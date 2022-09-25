@@ -9,32 +9,20 @@
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="contacts.php">
-              <span data-feather="home" class="align-text-bottom"></span>
+              <span data-feather="user" class="align-text-bottom"></span>
               contact
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="report.php">
-              <span data-feather="home" class="align-text-bottom"></span>
-              Reports
-            </a>
-          </li>
-          <!-- <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="template.php">
-              <span data-feather="home" class="align-text-bottom"></span>
-              Templates
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="campaign.php">
-              <span data-feather="home" class="align-text-bottom"></span>
-              New Campaign
-            </a>
-          </li> -->
-          <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="messages.php">
-              <span data-feather="home" class="align-text-bottom"></span>
+              <span data-feather="send" class="align-text-bottom"></span>
               Send Mail
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="report.php">
+              <span data-feather="activity" class="align-text-bottom"></span>
+              Reports
             </a>
           </li>
         </ul>

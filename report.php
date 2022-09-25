@@ -53,7 +53,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>No Of Open Email</td>
+                                    <td>No of Opened Emails</td>
                                     <td>
                                         <?php
 
@@ -68,7 +68,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>No Linked Clicked</td>
+                                    <td>No of Links Clicked</td>
                                     <td>
                                         <?php
                                             $filterBy = 'clicked'; // or Finance etc.

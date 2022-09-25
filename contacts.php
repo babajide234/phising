@@ -120,7 +120,7 @@
                             <div class="row">
                                 <div class="col-md-12 d-flex justify-content-between">
                                     <button class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#addList">New List</button>
-                                    <button  class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#addListContact" >Add Contact Too List</a>
+                                    <button  class="btn btn-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#addListContact" >Add Contact To List</a>
                                 </div>
                             </div>    
                             <div class="row">

@@ -1,3 +1,4 @@
+<!-- importing the header -->
 <?php include('./includes/header.php') ?>
 <?php
 
